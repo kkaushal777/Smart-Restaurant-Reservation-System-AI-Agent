@@ -1,0 +1,14 @@
+[
+  {
+    "id": "RES-20250501221506-616",
+    "customer_name": "kaushal",
+    "customer_email": "kishore@gmail.com",
+    "restaurant_id": 5,
+    "restaurant_name": "Mumbai Masala",
+    "date": "2024-06-25",
+    "time": "19:00",
+    "party_size": 3,
+    "special_requests": "",
+    "created_at": "2025-05-01 22:15:06"
+  }
+]

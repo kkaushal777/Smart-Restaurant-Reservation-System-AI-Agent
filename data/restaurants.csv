@@ -1,0 +1,31 @@
+id,name,location,cuisine,capacity,opening_time,closing_time,price_range,rating,special_features
+1,Spice Paradise,Connaught Place,North Indian,50,11:00,23:00,₹₹ (500-1000),4.5,Outdoor seating
+2,Tandoori Nights,Hauz Khas,Punjabi,40,12:00,22:00,₹₹₹ (1000-1500),4.7,Lakeside view
+3,Dosa Delight,Malviya Nagar,South Indian,60,11:30,22:30,₹ (Under 500),4.2,Live classical music
+4,Royal Mughal,Chandni Chowk,Mughlai,75,10:00,23:00,₹₹ (500-1000),4.3,Heritage ambience
+5,Mumbai Masala,Marine Drive,Maharashtrian,30,17:00,22:00,₹₹₹ (1000-1500),4.8,Sea view dining
+6,Kerala Thali,Kochi City,Kerala,45,11:00,21:00,₹₹ (500-1000),4.4,Garden seating
+7,Biryani House,Hyderabad Old City,Hyderabadi,70,17:00,23:00,₹₹₹₹ (1500+),4.6,Royal dining experience
+8,Campus Dhaba,JNU Area,North Indian,80,10:30,23:30,₹ (Under 500),4.0,Student discounts
+9,Bengali Bhoj,Park Street Kolkata,Bengali,35,11:00,22:00,₹₹ (500-1000),4.2,Authentic sweets
+10,Goan Shack,Calangute Beach,Goan,55,12:00,23:00,₹₹₹ (1000-1500),4.7,Beach view
+11,Rajasthani Rasoi,Jaipur Old City,Rajasthani,40,17:30,23:00,₹₹₹ (1000-1500),4.6,Traditional decor
+12,Chaat Corner,CP Market,Street Food,65,11:30,22:30,₹₹ (500-1000),4.3,Live chaat counters
+13,Tech Tadka,Whitefield Bangalore,Fusion Indian,90,11:00,23:00,₹₹ (500-1000),4.1,Digital ordering system
+14,Assamese Kitchen,Guwahati Main,Assamese,50,12:00,22:00,₹₹₹ (1000-1500),4.5,Riverside dining
+15,Gujarat Thali,Ahmedabad Heritage City,Gujarati,45,10:00,21:00,₹₹ (500-1000),4.4,Unlimited thali option
+16,Business Bay Spices,Bandra Kurla Complex,Multi-Cuisine Indian,80,11:00,22:00,₹₹ (500-1000),4.2,Corporate lunch deals
+17,Haveli Restaurant,Udaipur Palace Road,Traditional Rajasthani,30,12:00,21:00,₹₹₹ (1000-1500),4.6,Palace view dining
+18,Stadium Dhaba,Feroz Shah Kotla Area,Punjabi,100,11:00,23:30,₹₹ (500-1000),4.0,Cricket match screenings
+19,Mall Road Eats,Ambience Mall,Fast Indian,60,10:00,22:00,₹ (Under 500),3.9,Express service
+20,Airport Idli,Terminal 3 Delhi,South Indian,70,06:00,23:00,₹₹ (500-1000),3.8,24-hour service
+21,Banquet Spices,HICC Hyderabad,Indian Buffet,150,07:00,22:00,₹₹ (500-1000),4.1,Group accommodations
+22,Bollywood Bistro,Juhu Theater Lane,Mumbai Street Food,40,16:00,23:30,₹₹₹ (1000-1500),4.5,Bollywood themed decor
+23,Backwater Cuisine,Kochi Waterfront,Kerala Seafood,60,12:00,23:00,₹₹₹₹ (1500+),4.8,Fresh seafood specialties
+24,Organic India,Manali Hills,Organic Himachali,35,09:00,20:00,₹₹ (500-1000),4.3,Farm-to-table concept
+25,Dhaba Junction,Industrial Area Ludhiana,Punjabi,70,11:00,22:00,₹ (Under 500),4.2,Truck driver specials
+26,Darjeeling Delights,Mall Road Darjeeling,Tibetan-Indian,45,16:00,23:00,₹₹₹ (1000-1500),4.4,Mountain view dining
+27,Luxury Langar,DLF Gurgaon,Modern Indian,25,18:00,23:00,₹₹₹₹ (1500+),4.7,Chef's tasting menu
+28,Little Chinatown,Tangra Kolkata,Indo-Chinese,80,11:00,23:00,₹₹ (500-1000),4.5,Late night menu
+29,Lucknowi Dastarkhwan,Hazratganj Lucknow,Awadhi,55,12:00,22:30,₹₹₹ (1000-1500),4.6,Royal nawabi cuisine
+30,Contemporary Chulha,Art District Mumbai,Fusion Indian,40,10:00,21:00,₹₹ (500-1000),4.3,Artisanal presentation
