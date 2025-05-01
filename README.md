@@ -49,6 +49,10 @@ data/
 docs/
   └── use_case.md      # Detailed use case documentation
 ```
+### Sequence Diagram
+![Untitled Diagram-Page-3 (2)](https://github.com/user-attachments/assets/28483e4e-4b63-4d85-b032-8fc7db6c7ef0)
+
+
 
 ## Setup Instructions
 
