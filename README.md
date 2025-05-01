@@ -2,6 +2,8 @@
 
 An AI-powered restaurant reservation system built for the AI Agent Challenge. This solution enables customers to make reservations, get restaurant recommendations, and manage their bookings through a conversational AI interface or a user-friendly web application, demonstrating practical applications of LLM agents in the hospitality industry.
 
+![Screenshot (174)](https://github.com/user-attachments/assets/fdac0477-1c34-4bbe-acc5-1dba3bc8a121)
+
 
 ## Overview
 
@@ -47,6 +49,10 @@ data/
 docs/
   └── use_case.md      # Detailed use case documentation
 ```
+### Sequence Diagram
+![Untitled Diagram-Page-3 (2)](https://github.com/user-attachments/assets/28483e4e-4b63-4d85-b032-8fc7db6c7ef0)
+
+
 
 ## Setup Instructions
 
