@@ -1,5 +1,9 @@
 # Use Case for FoodieSpot Restaurant Reservation AI Agent
 
+## Summary
+
+FoodieSpot aims to deploy a conversational AI agent to automate restaurant reservations across multiple city locations. This solution will streamline customer interactions, reduce manual workload, and enhance personalized dining experiences. Designed for scalability, the AI agent will not only optimize internal operations but also open new revenue streams through potential SaaS offerings to other restaurant chains and adjacent industries.
+
 ---
 
 ## Goal
@@ -18,8 +22,7 @@
 
 ---
 
-## Use Case (in 100 words)
-
+## Use Case 
 FoodieSpot wants to streamline its reservation management across multiple locations. The AI Reservation Agent will allow customers to book tables by simply chatting naturally. Customers can specify their preferences — location, cuisine, time, party size — and the agent will recommend the best-fit restaurant or book directly. It will handle modifications and cancellations too. The agent ensures real-time availability checking, upsells premium experiences (e.g., private seating), and reduces staff load. Designed with scalability in mind, it will eventually be adapted to other hospitality and service industries.
 
 ---
@@ -80,7 +83,7 @@ stateDiagram-v2
 
 - **Which Languages?**:
   - English (MVP).
-  - (Optional: Scale to Hindi, Spanish later.)
+  - (Optional: Scale to Hindi, Kannada etc later.)
 
 - **New Features Asked For?**:
   - Personalized upselling (e.g., Birthday setups).
@@ -132,27 +135,6 @@ stateDiagram-v2
 4. **Operational Optimization**: Predict staffing needs based on reservation patterns.
 5. **Marketing Automation**: Generate targeted promotions based on dining history and preferences.
 
----
-
-## Return on Investment Projections
-
-### Cost Savings
-- Staff time reduction: $120,000 annually (across 20 locations)
-- Error reduction: $50,000 annually (from double-bookings and miscommunications)
-
-### Revenue Increase
-- After-hours bookings: $200,000 annually (15% increase in total bookings)
-- Improved capacity utilization: $300,000 annually (filling previously empty tables)
-- Upselling through recommendations: $150,000 annually
-
-### Implementation Costs
-- Development and deployment: $150,000
-- Ongoing maintenance and API costs: $60,000 annually
-
-### Net ROI
-- Year 1: 53% ROI
-- Year 2: 173% ROI
-- 3-year cumulative return: $1.1 million
 
 ---
 
